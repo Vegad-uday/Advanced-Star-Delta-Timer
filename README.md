@@ -2,6 +2,13 @@
 
 The **Advanced Star Delta Timer** is an intelligent control system designed to start industrial motors efficiently while managing frequent voltage fluctuations. This system is adaptable to various industrial needs, providing reliable and precise motor control.
 
+# Acknowledgement
+• I express my sincere gratitude to Trick Robotics for providing me with the opportunity to undertake this internship. The experience and knowledge gained during this period have been invaluable.
+•	I extend my heartfelt thanks to my external guide,Mr.Ajit Sandhi , for their guidance and support throughout the internship. Their expertise and insights greatly contributed to my learning and development.
+# contact Details of Trick Robotics
+  Address: Vidhyanagar,bhavnagar,364001,Gujarat
+  E-mail: trickrobotics@gmail.com
+
 ## Features
 
 - **Voltage Compatibility:** Operates at 440V AC or 220V AC, 50Hz.
