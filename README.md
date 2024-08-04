@@ -66,7 +66,7 @@ To set up and run this project:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com
+[   git clone https://github.comadvanced-star-delta-timer.ino](https://github.com/Vegad-uday/Advanced-Star-Delta-Timer)
 2.Open the project in Arduino IDE.
 3.Go to File > Preferences in Arduino IDE and add the following URL to the Additional Board Manager URLs text box:
 
