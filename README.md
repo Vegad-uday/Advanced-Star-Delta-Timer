@@ -68,8 +68,9 @@ To set up and run this project:
    ```bash
     https://github.com/Vegad-uday/Advanced-Star-Delta-Timer
 2.Open the project in Arduino IDE.
+
 3.Go to File > Preferences in Arduino IDE and add the following URL to the Additional Board Manager URLs text box:
-  
+
     https://github.com/stm32duino/BoardManagerFiles/raw/master/STM32/package_stm_index.json
 4.Open the Boards Manager from Tools > Board > Boards Manager and install "STM32F1xx/GD32F1xx boards".
 
