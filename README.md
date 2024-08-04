@@ -72,9 +72,13 @@ To set up and run this project:
   
     https://github.com/stm32duino/BoardManagerFiles/raw/master/STM32/package_stm_index.json
 4.Open the Boards Manager from Tools > Board > Boards Manager and install "STM32F1xx/GD32F1xx boards".
+
 5.Select STM32F103C8T6 as your board from Tools > Board > STM32F1xx/GD32F1xx boards.
+
 6.Connect your components according to the Code.
+
 7.Upload the code to your STM32 microcontroller.
+
 8.Test the system using the adjustable timing parameters (T1 and T2).
 
 ##Contributing
