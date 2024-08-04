@@ -6,7 +6,8 @@ The **Advanced Star Delta Timer** is an intelligent control system designed to s
 • I express my sincere gratitude to Trick Robotics for providing me with the opportunity to undertake this internship. The experience and knowledge gained during this period have been invaluable.
 
 •	I extend my heartfelt thanks to my external guide,Mr.Ajit Sandhi , for their guidance and support throughout the internship. Their expertise and insights greatly contributed to my learning and development.
-# contact Details of Trick Robotics
+
+ Contact Details of Trick Robotics
   Address: Vidhyanagar,bhavnagar,364001,Gujarat
   E-mail: trickrobotics@gmail.com
 
