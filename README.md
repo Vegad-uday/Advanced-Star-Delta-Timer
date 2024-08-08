@@ -1,5 +1,7 @@
 # Advanced Star Delta Timer
 
+ my internship at Trick Robotics from  29th June to July 12 2024.
+ 
 The **Advanced Star Delta Timer** is an intelligent control system designed to start industrial motors efficiently while managing frequent voltage fluctuations. This system is adaptable to various industrial needs, providing reliable and precise motor control.
 
 # Acknowledgement
